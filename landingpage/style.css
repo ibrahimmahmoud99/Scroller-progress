@@ -18,3 +18,17 @@ body {
     left: 0;
     z-index: 99999;
 }
+
+.button {
+    background-color: orangered;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 6px;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    cursor: pointer;
+}
